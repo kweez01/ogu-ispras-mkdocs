@@ -16,6 +16,8 @@ theme:
   features:
     - navigation.top
     - navigation.instant
+    - navigation.expand
+    - navigation.footer
     - search.highlight
     - search.suggest
     - content.code.copy
@@ -23,3 +25,18 @@ theme:
 plugins:
   - search:
       lang: ru
+  - macros
+  - glightbox
+
+nav:
+  - Главная: index.md
+
+extra:
+  generator: false
+
+markdown_extensions:
+  - admonition
+  - pymdownx.superfences
+  - pymdownx.details
+  - toc:
+      permalink: "¶"

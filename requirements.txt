@@ -1,0 +1,4 @@
+mkdocs-material==9.5.10
+mkdocs-static-i18n==1.2.3
+mkdocs-macros-plugin>=1.0.0
+mkdocs-glightbox==0.5.2
