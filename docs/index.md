@@ -10,7 +10,7 @@
 
 Скачать презентацию в PDF: [ИСП РАН для студентов](https://nextcloud.ispras.ru/index.php/s/iYCpNBLEpSKrTR7)
 
-![image.png](images/image.png)
+<img src="images/image.png" style="width: 100%">
 
 Страница ИСП РАН для студентов: [https://education.at.ispras.ru/](https://education.at.ispras.ru/)
 
@@ -61,15 +61,19 @@
 - [На Учёном совете ОГУ имени И.С. Тургенева подвели итоги года.](https://oreluniver.ru/media/news/show/1/27576)
 - [Студенты ОГУ имени И.С. Тургенева стали стипендиатами программы Института системного программирования РАН.](https://oreluniver.ru/media/news/show/1/27611)
 
-![photo_2025-12-26_08-39-15.jpg](images/photo_2025-12-26_08-39-15.jpg)
+<div class="photo-grid" style="--photo-grid-cols: 1">
+  <img src="images/photo_2025-12-26_08-39-15.jpg" alt="">
+</div>
 
 **17.12.2025** Состоялась защита студенческих проектов в группе 41ПГ.
 
-![image.png](images/image%201.png)
+<div class="photo-grid" style="--photo-grid-cols: 1">
+  <img src="images/image 1.png" alt="">
+</div>
 
 **09.12.2025** Студенты ИПАИТ — Антон Ветров, Александр Тимошенко, Светлана Баева и Анастасия Ртищева — приняли участие в работе [Открытой конференции ИСП РАН 2025](https://www.isprasopen.ru/2025/) в кластере “Ломоносов”, г. Москва.
 
-<div class="photo-grid">
+<div class="photo-grid" style="--photo-grid-cols: 3">
   <img src="images/photo_2025-12-15_10-42-07.jpg" alt="">
   <img src="images/photo_2025-12-15_10-42-11.jpg" alt="">
   <img src="images/photo_2025-12-15_10-42-15.jpg" alt="">
@@ -90,7 +94,9 @@
 
 **31.05.2025** https://oreluniver.ru/media/news/show/1/25591
 
-![image.png](images/image%202.png)
+<div class="photo-grid" style="--photo-grid-cols: 1">
+  <img src="images/image 2.png" alt="">
+</div>
 
 **18.12.2024** Состоялась защита студенческих проектов в группе 21ПИ.
 
@@ -101,7 +107,9 @@
 
 **07.10.2024** В Университете "Сириус" стартовала проектная смена "Доверенный искусственный интеллект". Обучение проходят около 40 студентов и аспирантов, а в качестве преподавателей выступают ведущие сотрудники ИСП РАН, МГУ им. М.В. Ломоносова, МФТИ, ННГУ, Сколтеха, AIRI и Университета Иннополис. Среди преподавателей — Дмитрий Александрович Рыболовлев и Анастасия Григорьевна Никольская.
 
-![image.png](images/image%205.png)
+<div class="photo-grid" style="--photo-grid-cols: 1">
+  <img src="images/image 5.png" alt="">
+</div>
 
 **23.11.2022** Заключено Соглашение о сотрудничестве между ИСП РАН и ОГУ**.**
 

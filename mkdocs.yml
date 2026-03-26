@@ -6,14 +6,7 @@ theme:
   language: ru
   logo: ISP_logo_RU.png
   palette:
-    - scheme: default
-      toggle:
-        icon: material/brightness-7
-        name: Тёмная тема
-    - scheme: slate
-      toggle:
-        icon: material/brightness-4
-        name: Светлая тема
+    scheme: default
   features:
     - navigation.top
     - navigation.instant
