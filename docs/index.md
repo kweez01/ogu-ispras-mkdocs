@@ -69,19 +69,19 @@
 
 **09.12.2025** Студенты ИПАИТ — Антон Ветров, Александр Тимошенко, Светлана Баева и Анастасия Ртищева — приняли участие в работе [Открытой конференции ИСП РАН 2025](https://www.isprasopen.ru/2025/) в кластере “Ломоносов”, г. Москва.
 
-<div class="photo-grid" markdown>
-![photo_2025-12-15_10-42-07.jpg](images/photo_2025-12-15_10-42-07.jpg)
-![photo_2025-12-15_10-42-11.jpg](images/photo_2025-12-15_10-42-11.jpg)
-![photo_2025-12-15_10-42-15.jpg](images/photo_2025-12-15_10-42-15.jpg)
+<div class="photo-grid">
+  <img src="images/photo_2025-12-15_10-42-07.jpg" alt="">
+  <img src="images/photo_2025-12-15_10-42-11.jpg" alt="">
+  <img src="images/photo_2025-12-15_10-42-15.jpg" alt="">
 </div>
 
 **26.06.2025** В Иркутске прошла ежегодная конференция ИСП РАН ["Иванниковские чтения"](https://ivannikov-ws.org/), посвящённая разработке инновационных технологий системного программирования и искусственного интеллекта.
 
-<div class="photo-grid" markdown>
-![IMG_0012.jpg](images/IMG_0012.jpg)
-![IMG_1500.jpg](images/IMG_1500.jpg)
-![IMG_0821.jpg](images/IMG_0821.jpg)
-![IMG_0259.jpg](images/IMG_0259.jpg)
+<div class="photo-grid">
+  <img src="images/IMG_0012.jpg" alt="">
+  <img src="images/IMG_1500.jpg" alt="">
+  <img src="images/IMG_0821.jpg" alt="">
+  <img src="images/IMG_0259.jpg" alt="">
 </div>
 
 **05.06.2025** Студенты группы 21ПИ Антон Ветров, Александр Тимошенко, Роман Шугуров выступили с докладами на конференции [ИТНОП-2025](https://myconfs.ru/itnop2025). Александр Тимошенко получил диплом II степени в секции "Искусственный интеллект и принятие решений".
@@ -94,9 +94,10 @@
 
 **18.12.2024** Состоялась защита студенческих проектов в группе 21ПИ.
 
-![image.png](images/image%203.png)
-
-![image.png](images/image%204.png)
+<div class="photo-grid">
+  <img src="images/image 3.png" alt="">
+  <img src="images/image 4.png" alt="">
+</div>
 
 **07.10.2024** В Университете "Сириус" стартовала проектная смена "Доверенный искусственный интеллект". Обучение проходят около 40 студентов и аспирантов, а в качестве преподавателей выступают ведущие сотрудники ИСП РАН, МГУ им. М.В. Ломоносова, МФТИ, ННГУ, Сколтеха, AIRI и Университета Иннополис. Среди преподавателей — Дмитрий Александрович Рыболовлев и Анастасия Григорьевна Никольская.
 
@@ -108,7 +109,7 @@
 
 https://www.ivannikov-ws.org/2020/#AboutEvent
 
-<div class="photo-grid" markdown>
-![image.png](images/image%206.png)
-![image.png](images/image%207.png)
+<div class="photo-grid">
+  <img src="images/image 6.png" alt="">
+  <img src="images/image 7.png" alt="">
 </div>
