@@ -8,11 +8,13 @@ theme:
   font: false
   palette:
     scheme: default
+    primary: white
   features:
     - navigation.top
     - navigation.instant
     - navigation.expand
-    - navigation.footer
+    - navigation.tabs.sticky
+    - toc.follow
     - search.highlight
     - search.suggest
     - content.code.copy
