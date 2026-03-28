@@ -5,6 +5,7 @@ theme:
   name: material
   language: ru
   logo: ISP_logo_RU.png
+  font: false
   palette:
     scheme: default
   features:
